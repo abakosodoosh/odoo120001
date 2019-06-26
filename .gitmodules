@@ -2,3 +2,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 12.0
+
+[submodule "joseluisbossio/lata"]
+	path = joseluisbossio/lata
+	url = git@github.com:joseluisbossio/lata.git
+	branch = master
